@@ -1,1 +1,2 @@
+python3 basicShadowUpdater.py -e <OMA ENDPOINT URL> -r <AMAZON ROOT CA.PEM> -c <LAITE SERTIFIKAATTI-certificate.pem.crt> -k <PRIVAATTI AVAIN-private.pem.key> -p 8883 -id <LAITTEEN ID AWS:SSÄ -n <LAITTEEN NIMI AWS:SSÄ>
 
